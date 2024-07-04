@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "573738276744",
+    "project_id": "gdrive-428115",
+    "storage_bucket": "gdrive-428115.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573738276744:android:dc2051423fafe5a4334c3d",
+        "android_client_info": {
+          "package_name": "com.example.gdrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573738276744-ti7a672o0ectopk6trvtn8m6ptoh70ab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gdrive",
+            "certificate_hash": "418f31200721a1c77f04e14860dd7b632d4c2b79"
+          }
+        },
+        {
+          "client_id": "573738276744-p53ggdoothkag7kgcbmcof03mf4cglfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMbEbmzMMGzaaZOnp7VyklNqsv_8z2KVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573738276744-p53ggdoothkag7kgcbmcof03mf4cglfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
